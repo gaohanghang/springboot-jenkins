@@ -16,6 +16,6 @@ public class HelloController {
         //return "hello";
         //return "hello new";
         //return "hello new new";
-        return "hello 你好";
+        return "hello";
     }
 }
