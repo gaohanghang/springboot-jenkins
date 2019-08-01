@@ -15,7 +15,7 @@ public class HelloController {
     public String hello() {
         //return "hello";
         //return "hello new";
-        return "hello new new";
-        //return "hello";
+        //return "hello new new";
+        return "hello";
     }
 }
