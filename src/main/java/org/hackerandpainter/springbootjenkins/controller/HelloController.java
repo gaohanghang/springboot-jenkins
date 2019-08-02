@@ -14,8 +14,8 @@ public class HelloController {
     @GetMapping("/")
     public String hello() {
         //return "hello";
-        //return "hello new";
-        return "hello new new";
+        return "hello new";
+        //return "hello new new";
         //return "hello";
     }
 }
